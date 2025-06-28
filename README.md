@@ -3,7 +3,6 @@
 A beautifully designed, functional calculator built using **Flutter**.  
 This app features a clean UI and supports basic arithmetic operations.
 
-![screenshot](https://images.pexels.com/photos/64296/pexels-photo-64296.jpeg) <!-- Optional banner -->
 
 ## 🚀 Features
 
